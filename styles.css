@@ -7,8 +7,8 @@ h1 {color: lightpink;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 h2 {color: lightpink;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
-nav {background-color: blanchedalmond;}
+nav {background-color: lightcyan;}
 nav a {color: darkcyan}
 nav {color: darkcyan}
-nav a:hover {background-color: cyan;}
+nav a:hover {background-color:blanchedalmond;}
 
