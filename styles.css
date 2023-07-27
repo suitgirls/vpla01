@@ -11,4 +11,5 @@ nav {background-color: lightcyan;}
 nav a {color: darkcyan}
 nav {color: darkcyan}
 nav a:hover {background-color:blanchedalmond;}
+nav {padding: 10px; margin-bottom: 30px; background-color: aliceblue;}
 
