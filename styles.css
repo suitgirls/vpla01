@@ -16,4 +16,10 @@ nav {
     margin-bottom: 30px; 
     background-color: aliceblue;
     }
-
+div {
+    border: 1px azure;
+    margin: 30px;
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
